@@ -1,19 +1,19 @@
-# ping-awards
+# bing-rewards-bot
 
 > A python script to automate a certain pyramid scheme. It's all about the $5 gift card every few months.
 
 ## Tutorial
 
-1. Run `git clone https://github.com/wur3/ping-awards.git`
+1. Run `git clone https://github.com/wur3/bing-rewards-bot.git`
 
-2. Go inside the directory with `cd ping-awards`
+2. Go inside the directory with `cd bing-rewards-bot`
 
 3. Install given requirements:
 ```shell
 $ pip3 install -r requirements.txt
 ```
 
-4. Download chromedriver from https://chromedriver.storage.googleapis.com/index.html?path=2.38/ into the ping-awards directory
+4. Download chromedriver from https://chromedriver.chromium.org/downloads into the bing-rewards-bot directory
 
 
 5. Create a "login.txt" file to hold your login username/email and password (at least 2 lines)
@@ -46,7 +46,7 @@ $ pip3 install -r requirements.txt
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/wur3/ping-awards/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/wur3/bing-rewards-bot/issues/new).
 
 ## Author
 
